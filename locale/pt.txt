@@ -1,0 +1,37 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_A36AEDEC_B7EF_7AB7_41D8_0ABD5676E925.toolTip = Salas de Apoio ADM
+
+## Media
+
+### Title
+panorama_A04AB934_AE23_202D_41D3_D83E2D38FC6D.label = Acesso Banheiro Mesanino
+panorama_A3943C56_AE23_E06C_41C7_5C3A54B21F9A.label = Acesso banheiros mesanino
+panorama_A397E299_AE23_60E7_41A3_7BB4CCC76ED3.label = Acesso mesanino
+panorama_A394BA17_AE23_23EC_4194_15D222DB6609.label = Balcão
+panorama_B3F04100_AE63_217E_41D6_225AAD6B1DDD.label = Banheiro mesanino 1
+panorama_B3F0A44C_AE63_6787_41CB_24F40D17A5F0.label = Banheiro mesanino 2
+panorama_A39443C7_AE23_206D_41D2_4FB47B7570E2.label = Entrada
+panorama_A397A8BF_AE23_201C_41D3_AF0421AE493E.label = Escada terraço
+panorama_A397A47E_AE23_201F_41DF_16BE7D3AE223.label = Mesanino
+panorama_A397AFE4_AE23_2022_41DF_658D8E936592.label = Mesanino fundos
+panorama_A394E709_AE21_21E2_41C0_8FCD99506C50.label = Salão Principal
+panorama_A397AAC3_AE23_2066_4196_50CCF7E9F245.label = Salão principal - Palco
+panorama_B6BA448B_AE21_20A0_41E3_23FEB923BF97.label = Salão principal_acesso ao banheiro
+panorama_A397EE3D_AE23_601D_41E3_C1C168C3977A.label = Salão principal_final
+panorama_A397D3CF_AE23_607D_41CA_14A0F4214E58.label = Salão principal_fundos
+panorama_A39164D7_AE23_206B_41E2_6F281E0ADDA4.label = Salão principal_ilhas
+panorama_A397D96C_AE23_6023_41C7_5F6B6CB7EDFA.label = Salão principal_meio
+panorama_A394455F_AE20_E01E_41CD_D5A8FA564B71.label = Terraço frente
+panorama_A397B8A5_AE23_E02C_41DB_D5FE5F06AAEE.label = Terraço fundos
+panorama_A394E734_AE21_6022_41E0_49BAB2C5F8AB.label = terraço
+
+## Tour
+
+### Description
+
+### Title
+tour.name = FIGUEIRAS
